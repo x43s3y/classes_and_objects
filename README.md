@@ -1,5 +1,6 @@
 # classes_and_objects
-1. Zoo
+1.Zoo
+
 Create a class Zoo. It should have a class attribute called __animals that stores the total count of the animals in
 the zoo. The __init__ method should only receive the name of the zoo. There you should also create 3 empty lists
 (mammals, fishes, birds). The class should also have 2 more methods:
